@@ -16,3 +16,6 @@
 - [3. Using Guide](3-Using_Guide): 佈建好 free5GC 總要知道怎麼再搭配 UE, enodeB 來建構完整的 5G 平台吧！這章就在教會你如何從 UE 連到 free5GC 後可以上網。因為 5 種方式在連接 UE 和 enodeB 都是一樣的，所以這邊不會分別介紹。
 - [4. Development Guide](4-Development_Guide): 我們 Setup 好整個 free5GC 的大平台，但當我們想要調整一些元件呢？這邊不會教如何開發 free5GC ，但會針對 5 種方式，在 deploy 上會需要開發或調整的部分，進行相關的說明。
 
+如果你想對 Kubernetes 和 free5GC 有更深入的了解，請參考以下網站：  
+- Kubernetes: https://kubernetes.io/
+- free5GC: https://www.free5gc.org/
