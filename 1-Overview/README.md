@@ -1,6 +1,6 @@
 # Overview
 
-在前言，我們的部署方式有五種，分別如下：
+在前言，我們說明提供的部署方式有五種，分別如下：
 
 1. 使用 Kubernetes yaml 部署 free5GC
 2. 使用 Helm 部署 free5GC
